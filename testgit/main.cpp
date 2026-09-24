@@ -1,5 +1,9 @@
-#include <iostream>
 
-void main() {
-	std::cout << "Hellow world" << std::endl;
+#include <iostream>
+int main()
+{
+
+	std::cout << "Bonjour" << std::endl;
+
+	return 0; 
 }
